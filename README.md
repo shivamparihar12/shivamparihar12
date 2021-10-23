@@ -1,5 +1,4 @@
 <h1 align="center">Hey Folks 👋, I'm Shivam Parihar</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamparihar12&label=Profile%20views&color=0e75b6&style=flat" alt="shivamparihar12" /> </p>
 
