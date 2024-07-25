@@ -1,5 +1,6 @@
 Just an everyday normal guy who likes to build things.
 
+- Yes, I use Vim. But on IDEs (because why not have the best of both worlds?).
 - Currently learning Go (because who doesn’t love a good gopher?)
 - Open to collaborating on anything that piques my interest (or yours!)
 - You can reach me: [LinkedIn](https://www.linkedin.com/in/shivam-parihar/)
